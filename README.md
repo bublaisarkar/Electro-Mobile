@@ -22,16 +22,16 @@ Make sure you have Node.js and the Expo CLI installed on your machine.
 ### Installation
 1. Clone the repository:
 
-bash
+
 git clone https://github.com/bublaisarkar/Electro-Mobile.git
 cd Electro-Mobile
 
 2. Install dependencies:
 
-bash
+
 npm install
 
-bash
+
 npx expo start As(s for native development)
 
 ## License 📄
